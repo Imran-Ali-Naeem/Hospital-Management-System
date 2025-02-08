@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F5609124-994D-4151-89DD-8FF0F0693408}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HMS</RootNamespace>
+    <AssemblyName>HMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>packages\Oracle.ManagedDataAccess.21.14.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Formats.Asn1, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Formats.Asn1.8.0.0\lib\net462\System.Formats.Asn1.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.6.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Adding Appintments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adding Appintments.Designer.cs">
+      <DependentUpon>Adding Appintments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adding Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adding Staff.Designer.cs">
+      <DependentUpon>Adding Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddingPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingPatient.Designer.cs">
+      <DependentUpon>AddingPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLoginPage.Designer.cs">
+      <DependentUpon>AdminLoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminOptions.Designer.cs">
+      <DependentUpon>AdminOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Button_WOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Confirm smtp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Confirm smtp.Designer.cs">
+      <DependentUpon>Confirm smtp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSS Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSS Options.Designer.cs">
+      <DependentUpon>CSS Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor Options.Designer.cs">
+      <DependentUpon>Doctor Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generate Perscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generate Perscription.Designer.cs">
+      <DependentUpon>Generate Perscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Get Appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Get Appointment.Designer.cs">
+      <DependentUpon>Get Appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient Login.Designer.cs">
+      <DependentUpon>Patient Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient Options.Designer.cs">
+      <DependentUpon>Patient Options.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patient Sign Up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patient Sign Up.Designer.cs">
+      <DependentUpon>Patient Sign Up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receptionist Opstions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receptionist Opstions.Designer.cs">
+      <DependentUpon>Receptionist Opstions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remove Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remove Staff.Designer.cs">
+      <DependentUpon>Remove Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Removing Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Removing Patient.Designer.cs">
+      <DependentUpon>Removing Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffLoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffLoginPage.Designer.cs">
+      <DependentUpon>StaffLoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Profie Receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Profie Receptionist.Designer.cs">
+      <DependentUpon>Update Profie Receptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Profile Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Profile Doctor.Designer.cs">
+      <DependentUpon>Update Profile Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Profile Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Profile Patient.Designer.cs">
+      <DependentUpon>Update Profile Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update Staff.Designer.cs">
+      <DependentUpon>Update Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Updating Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Updating Patient.Designer.cs">
+      <DependentUpon>Updating Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Appointment Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Appointment Patient.Designer.cs">
+      <DependentUpon>View Appointment Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view appointment Receptionist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view appointment Receptionist.Designer.cs">
+      <DependentUpon>view appointment Receptionist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Appointments Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Appointments Doctor.Designer.cs">
+      <DependentUpon>View Appointments Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Medical History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Medical History.Designer.cs">
+      <DependentUpon>View Medical History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Staff.Designer.cs">
+      <DependentUpon>View Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPatient.Designer.cs">
+      <DependentUpon>ViewPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_doc_sal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_doc_sal.Designer.cs">
+      <DependentUpon>View_doc_sal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Adding Appintments.resx">
+      <DependentUpon>Adding Appintments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adding Staff.resx">
+      <DependentUpon>Adding Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddingPatient.resx">
+      <DependentUpon>AddingPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLoginPage.resx">
+      <DependentUpon>AdminLoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminOptions.resx">
+      <DependentUpon>AdminOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Confirm smtp.resx">
+      <DependentUpon>Confirm smtp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSS Options.resx">
+      <DependentUpon>CSS Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor Options.resx">
+      <DependentUpon>Doctor Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generate Perscription.resx">
+      <DependentUpon>Generate Perscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Get Appointment.resx">
+      <DependentUpon>Get Appointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient Login.resx">
+      <DependentUpon>Patient Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient Options.resx">
+      <DependentUpon>Patient Options.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patient Sign Up.resx">
+      <DependentUpon>Patient Sign Up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Receptionist Opstions.resx">
+      <DependentUpon>Receptionist Opstions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remove Staff.resx">
+      <DependentUpon>Remove Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Removing Patient.resx">
+      <DependentUpon>Removing Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffLoginPage.resx">
+      <DependentUpon>StaffLoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Profie Receptionist.resx">
+      <DependentUpon>Update Profie Receptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Profile Doctor.resx">
+      <DependentUpon>Update Profile Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Profile Patient.resx">
+      <DependentUpon>Update Profile Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update Staff.resx">
+      <DependentUpon>Update Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Updating Patient.resx">
+      <DependentUpon>Updating Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Appointment Patient.resx">
+      <DependentUpon>View Appointment Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view appointment Receptionist.resx">
+      <DependentUpon>view appointment Receptionist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Appointments Doctor.resx">
+      <DependentUpon>View Appointments Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Medical History.resx">
+      <DependentUpon>View Medical History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Staff.resx">
+      <DependentUpon>View Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatient.resx">
+      <DependentUpon>ViewPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_doc_sal.resx">
+      <DependentUpon>View_doc_sal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hms4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Patient Options.Designer.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\NewFolder1\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\System.Text.Json.6.0.1\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

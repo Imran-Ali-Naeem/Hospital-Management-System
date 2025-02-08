@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imran\\source\\repos\\HMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|c:\\users\\imran\\source\\repos\\hms\\patient sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:patient sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\adding appintments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:adding appintments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view medical history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view medical history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update profie receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update profie receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\patient login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:patient login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view appointment receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view appointment receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\receptionist opstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:receptionist opstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\removing patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:removing patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\remove staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:remove staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\updating patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:updating patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\updating patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:updating patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view appointment patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view appointment patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\doctor options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:doctor options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\adminloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:adminloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\patient options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:patient options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\staffloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:staffloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\adminloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:adminloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\addingpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:addingpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update profile patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update profile patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update profile doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update profile doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view medical history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view medical history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update profile doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update profile doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update profie receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update profie receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\patient sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:patient sign up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\patient options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:patient options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update profile patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update profile patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\generate perscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:generate perscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view appointments doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view appointments doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\staffloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:staffloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\generate perscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:generate perscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\get appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:get appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view appointment receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view appointment receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view appointments doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view appointments doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\css options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:css options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\viewpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:viewpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\confirm smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:confirm smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\update staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:update staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\confirm smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:confirm smtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|C:\\Users\\imran\\source\\repos\\HMS\\view staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5609124-994D-4151-89DD-8FF0F0693408}|HMS.csproj|solutionrelative:view staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor Options.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Doctor Options.cs",
+              "RelativeDocumentMoniker": "Doctor Options.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Doctor Options.cs",
+              "RelativeToolTip": "Doctor Options.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:21:51.037Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adding Appintments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Adding Appintments.cs",
+              "RelativeDocumentMoniker": "Adding Appintments.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Adding Appintments.cs [Design]",
+              "RelativeToolTip": "Adding Appintments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:34:09.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update Profie Receptionist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profie Receptionist.cs",
+              "RelativeDocumentMoniker": "Update Profie Receptionist.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profie Receptionist.cs [Design]",
+              "RelativeToolTip": "Update Profie Receptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:33:14.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient Sign Up.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Sign Up.cs",
+              "RelativeDocumentMoniker": "Patient Sign Up.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Sign Up.cs",
+              "RelativeToolTip": "Patient Sign Up.cs",
+              "ViewState": "AQIAADoBAAAA0szMzMwtwEQBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:43:22.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View Medical History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Medical History.cs",
+              "RelativeDocumentMoniker": "View Medical History.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Medical History.cs [Design]",
+              "RelativeToolTip": "View Medical History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:33:39.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "view appointment Receptionist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\view appointment Receptionist.cs",
+              "RelativeDocumentMoniker": "view appointment Receptionist.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\view appointment Receptionist.cs [Design]",
+              "RelativeToolTip": "view appointment Receptionist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:30:15.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Receptionist Opstions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Receptionist Opstions.cs",
+              "RelativeDocumentMoniker": "Receptionist Opstions.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Receptionist Opstions.cs [Design]",
+              "RelativeToolTip": "Receptionist Opstions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:29:25.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Login.cs",
+              "RelativeDocumentMoniker": "Patient Login.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Login.cs [Design]",
+              "RelativeToolTip": "Patient Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:53:18.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Removing Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Removing Patient.cs",
+              "RelativeDocumentMoniker": "Removing Patient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Removing Patient.cs [Design]",
+              "RelativeToolTip": "Removing Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:28:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Remove Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Remove Staff.cs",
+              "RelativeDocumentMoniker": "Remove Staff.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Remove Staff.cs [Design]",
+              "RelativeToolTip": "Remove Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:26:34.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Updating Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Updating Patient.cs",
+              "RelativeDocumentMoniker": "Updating Patient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Updating Patient.cs [Design]",
+              "RelativeToolTip": "Updating Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:25:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Staff.cs",
+              "RelativeDocumentMoniker": "Update Staff.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Staff.cs [Design]",
+              "RelativeToolTip": "Update Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:25:25.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View Appointment Patient.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Appointment Patient.cs",
+              "RelativeDocumentMoniker": "View Appointment Patient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Appointment Patient.cs",
+              "RelativeToolTip": "View Appointment Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:57:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Updating Patient.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Updating Patient.cs",
+              "RelativeDocumentMoniker": "Updating Patient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Updating Patient.cs",
+              "RelativeToolTip": "Updating Patient.cs",
+              "ViewState": "AQIAADEAAADAy8zMzAwwwEkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T11:25:06.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminLoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\AdminLoginPage.cs",
+              "RelativeDocumentMoniker": "AdminLoginPage.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\AdminLoginPage.cs [Design]",
+              "RelativeToolTip": "AdminLoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:44:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Update Profile Patient.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Patient.cs",
+              "RelativeDocumentMoniker": "Update Profile Patient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Patient.cs",
+              "RelativeToolTip": "Update Profile Patient.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAMwGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:50:30.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Patient Options.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Options.cs",
+              "RelativeDocumentMoniker": "Patient Options.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Options.cs [Design]",
+              "RelativeToolTip": "Patient Options.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:13:54.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update Profile Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Patient.cs",
+              "RelativeDocumentMoniker": "Update Profile Patient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Patient.cs [Design]",
+              "RelativeToolTip": "Update Profile Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:34:23.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Patient Options.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Options.cs",
+              "RelativeDocumentMoniker": "Patient Options.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Options.cs",
+              "RelativeToolTip": "Patient Options.cs",
+              "ViewState": "AQIAAHEAAACAmZmZmZkkwHoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:34:49.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StaffLoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\StaffLoginPage.cs",
+              "RelativeDocumentMoniker": "StaffLoginPage.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\StaffLoginPage.cs",
+              "RelativeToolTip": "StaffLoginPage.cs",
+              "ViewState": "AQIAAAsAAADw//////8pwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T17:35:55.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Patient Sign Up.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Sign Up.cs",
+              "RelativeDocumentMoniker": "Patient Sign Up.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Patient Sign Up.cs [Design]",
+              "RelativeToolTip": "Patient Sign Up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:38:30.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "View Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Staff.cs",
+              "RelativeDocumentMoniker": "View Staff.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Staff.cs [Design]",
+              "RelativeToolTip": "View Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:46:49.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StaffLoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\StaffLoginPage.cs",
+              "RelativeDocumentMoniker": "StaffLoginPage.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\StaffLoginPage.cs [Design]",
+              "RelativeToolTip": "StaffLoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:47:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminLoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\AdminLoginPage.cs",
+              "RelativeDocumentMoniker": "AdminLoginPage.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\AdminLoginPage.cs",
+              "RelativeToolTip": "AdminLoginPage.cs",
+              "ViewState": "AQIAABYAAAAAaGZmZmbwvx4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:09:40.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddingPatient.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\AddingPatient.cs",
+              "RelativeDocumentMoniker": "AddingPatient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\AddingPatient.cs",
+              "RelativeToolTip": "AddingPatient.cs",
+              "ViewState": "AQIAAA4AAAAANjMzMzMbwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:37:47.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "View Medical History.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Medical History.cs",
+              "RelativeDocumentMoniker": "View Medical History.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Medical History.cs",
+              "RelativeToolTip": "View Medical History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:19:41.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update Profile Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Doctor.cs",
+              "RelativeDocumentMoniker": "Update Profile Doctor.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Doctor.cs",
+              "RelativeToolTip": "Update Profile Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:42:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update Profile Doctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Doctor.cs",
+              "RelativeDocumentMoniker": "Update Profile Doctor.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profile Doctor.cs [Design]",
+              "RelativeToolTip": "Update Profile Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:40:43.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update Profie Receptionist.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profie Receptionist.cs",
+              "RelativeDocumentMoniker": "Update Profie Receptionist.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Profie Receptionist.cs",
+              "RelativeToolTip": "Update Profie Receptionist.cs",
+              "ViewState": "AQIAAEEAAADAm5mZmRkVwEcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:20:15.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Generate Perscription.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Generate Perscription.cs",
+              "RelativeDocumentMoniker": "Generate Perscription.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Generate Perscription.cs",
+              "RelativeToolTip": "Generate Perscription.cs",
+              "ViewState": "AQIAAEIAAAAAmpmZmZkhwEwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:37:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "View Appointments Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Appointments Doctor.cs",
+              "RelativeDocumentMoniker": "View Appointments Doctor.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Appointments Doctor.cs",
+              "RelativeToolTip": "View Appointments Doctor.cs",
+              "ViewState": "AQIAABwAAADE//////8mwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:27:20.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Generate Perscription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Generate Perscription.cs",
+              "RelativeDocumentMoniker": "Generate Perscription.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Generate Perscription.cs [Design]",
+              "RelativeToolTip": "Generate Perscription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:11:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Get Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Get Appointment.cs",
+              "RelativeDocumentMoniker": "Get Appointment.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Get Appointment.cs",
+              "RelativeToolTip": "Get Appointment.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAwwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:31:25.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "view appointment Receptionist.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\view appointment Receptionist.cs",
+              "RelativeDocumentMoniker": "view appointment Receptionist.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\view appointment Receptionist.cs",
+              "RelativeToolTip": "view appointment Receptionist.cs",
+              "ViewState": "AQIAAFUAAABAZmZmZuYywFwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:37:23.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "View Appointments Doctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Appointments Doctor.cs",
+              "RelativeDocumentMoniker": "View Appointments Doctor.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Appointments Doctor.cs [Design]",
+              "RelativeToolTip": "View Appointments Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:22:37.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Update Staff.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Update Staff.cs",
+              "RelativeDocumentMoniker": "Update Staff.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Update Staff.cs",
+              "RelativeToolTip": "Update Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:50:52.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CSS Options.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\CSS Options.cs",
+              "RelativeDocumentMoniker": "CSS Options.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\CSS Options.cs [Design]",
+              "RelativeToolTip": "CSS Options.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:18:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViewPatient.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\ViewPatient.cs",
+              "RelativeDocumentMoniker": "ViewPatient.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\ViewPatient.cs",
+              "RelativeToolTip": "ViewPatient.cs",
+              "ViewState": "AQIAABIAAACA//////8mwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:52:46.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Confirm smtp.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Confirm smtp.cs",
+              "RelativeDocumentMoniker": "Confirm smtp.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Confirm smtp.cs",
+              "RelativeToolTip": "Confirm smtp.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAawCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:29:23.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Confirm smtp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Confirm smtp.cs",
+              "RelativeDocumentMoniker": "Confirm smtp.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Confirm smtp.cs [Design]",
+              "RelativeToolTip": "Confirm smtp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:16:42.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "View Staff.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\View Staff.cs",
+              "RelativeDocumentMoniker": "View Staff.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\View Staff.cs",
+              "RelativeToolTip": "View Staff.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAcwHMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:53:52.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:06:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:39:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\imran\\source\\repos\\HMS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\imran\\source\\repos\\HMS\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:49:29.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
